@@ -3,6 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+npx cap add android -> just once
+npx cap open android
+npx cap sync
 
 ```bash
 npm run dev
